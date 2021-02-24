@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://github.com/georgearmando/georgearmando/blob/master/banner-NLW04.png">
 
 
 # George Armando
