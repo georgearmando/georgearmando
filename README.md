@@ -29,5 +29,4 @@ I'm a web developer :computer: focused on the backend with Node.js
   <a href="https://www.linkedin.com/in/georgearmando" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/244912111599"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" tardet="_blank"></a>
   
-  ![Snake animation](https://github.com/georgearmando/georgearmando/blob/output/github-contribution-grid-snake.svg)
  </div>
